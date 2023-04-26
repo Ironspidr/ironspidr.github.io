@@ -124,7 +124,7 @@ footer{
 #contact_me{
     padding-top: 100px;
     display: flex;
-    justify-content: flex-start;
+    justify-content: center;
     align-items: flex-end;
 }
 
