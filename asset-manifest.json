@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.83d1a66a.css",
+    "main.js": "/static/js/main.67c027df.js",
+    "static/js/787.7c4fc8d6.chunk.js": "/static/js/787.7c4fc8d6.chunk.js",
+    "static/media/SLC23.jpg": "/static/media/SLC23.4874314dfec2a026abf5.jpg",
+    "static/media/methodist.jpg": "/static/media/methodist.5df30cc4ede6ab7f0378.jpg",
+    "static/media/nataniel.png": "/static/media/nataniel.55db4e11cdd34d98f6d4.png",
+    "static/media/islc22.jpg": "/static/media/islc22.57138d13c0cc41ecb67d.jpg",
+    "static/media/bestStu.jpg": "/static/media/bestStu.4c728a22dff5790f76ba.jpg",
+    "static/media/resume.pdf": "/static/media/resume.d00825883a16a3bcf219.pdf",
+    "static/media/VMMLogo.png": "/static/media/VMMLogo.562f3a0896cc57a0c3e8.png",
+    "static/media/rotary_ev.png": "/static/media/rotary_ev.47616aebd9d4c3a2e08d.png",
+    "index.html": "/index.html",
+    "main.83d1a66a.css.map": "/static/css/main.83d1a66a.css.map",
+    "main.67c027df.js.map": "/static/js/main.67c027df.js.map",
+    "787.7c4fc8d6.chunk.js.map": "/static/js/787.7c4fc8d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83d1a66a.css",
+    "static/js/main.67c027df.js"
+  ]
+}
