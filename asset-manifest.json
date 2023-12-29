@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.83d1a66a.css",
-    "main.js": "/static/js/main.67c027df.js",
+    "main.css": "/static/css/main.b175a442.css",
+    "main.js": "/static/js/main.efc1e7a1.js",
     "static/js/787.7c4fc8d6.chunk.js": "/static/js/787.7c4fc8d6.chunk.js",
     "static/media/SLC23.jpg": "/static/media/SLC23.4874314dfec2a026abf5.jpg",
     "static/media/methodist.jpg": "/static/media/methodist.5df30cc4ede6ab7f0378.jpg",
@@ -9,15 +9,17 @@
     "static/media/islc22.jpg": "/static/media/islc22.57138d13c0cc41ecb67d.jpg",
     "static/media/bestStu.jpg": "/static/media/bestStu.4c728a22dff5790f76ba.jpg",
     "static/media/resume.pdf": "/static/media/resume.d00825883a16a3bcf219.pdf",
+    "static/media/cnusdAward.jpg": "/static/media/cnusdAward.568310e575eb0bf8f11f.jpg",
     "static/media/VMMLogo.png": "/static/media/VMMLogo.562f3a0896cc57a0c3e8.png",
     "static/media/rotary_ev.png": "/static/media/rotary_ev.47616aebd9d4c3a2e08d.png",
+    "static/media/nj-logo.png": "/static/media/nj-logo.7d33cfb9e9cf1d50680a.png",
     "index.html": "/index.html",
-    "main.83d1a66a.css.map": "/static/css/main.83d1a66a.css.map",
-    "main.67c027df.js.map": "/static/js/main.67c027df.js.map",
+    "main.b175a442.css.map": "/static/css/main.b175a442.css.map",
+    "main.efc1e7a1.js.map": "/static/js/main.efc1e7a1.js.map",
     "787.7c4fc8d6.chunk.js.map": "/static/js/787.7c4fc8d6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83d1a66a.css",
-    "static/js/main.67c027df.js"
+    "static/css/main.b175a442.css",
+    "static/js/main.efc1e7a1.js"
   ]
 }
